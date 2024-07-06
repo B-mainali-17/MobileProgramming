@@ -1,0 +1,14 @@
+3. Create an application that will demonstrate all layout types with a proper example.
+1.Create New Project:
+Start a new project.
+
+2.Design Layouts:
+Create separate XML files for each layout type (LinearLayout, RelativeLayout, ConstraintLayout, FrameLayout, etc.).
+Add UI elements (TextViews, Buttons) to each layout file.
+
+3.Set Content in Java/Kotlin:
+Open MainActivity.java or MainActivity.kt.
+Use setContentView() to switch between different layout files.
+
+4.Run the Application:
+Select an emulator and click the "Run" button.

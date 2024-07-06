@@ -1,0 +1,17 @@
+2. Write basic steps to create and run a basic Android application that displays your name, email, phone, and address, and your image.
+1.Create New Project:
+Start a new project in Android Studio.
+Set project name and other details.
+
+2.Design Layout:
+Open activity_main.xml.
+Add TextViews for name, email, phone, and address.
+Add an ImageView for your image.
+
+3.Set Content in Java/Kotlin:
+Open MainActivity.java or MainActivity.kt.
+Link the TextViews and ImageView with their respective IDs.
+Set the text and image in onCreate method.
+
+4.Run the Application:
+Select an emulator and click the "Run" button.
