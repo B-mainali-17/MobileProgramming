@@ -1,0 +1,18 @@
+1. Write basic steps to install and run application using emulator in Android Studio.
+1.Install Android Studio:
+Download and install Android Studio from the official website.
+Complete initial setup.
+
+2.Create a New Project:
+Start a new Android Studio project.
+Configure project details (name, package, language, minimum API level).
+
+3.Set Up an Emulator:
+Open AVD Manager (Tools > AVD Manager).
+Create a virtual device, select hardware profile and system image.
+Finish AVD setup.
+
+4.Run the Application:
+Select the AVD from the device dropdown.
+Click the "Run" button.
+Wait for the emulator to start and application to launch.
